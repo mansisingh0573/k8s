@@ -29,4 +29,4 @@ spec:
         - name: nginx-container
           image: nginx:latest  # Docker image
           ports:
-            - containerPort: 80  # Application port
+            - containerPort: 90  # Application port
